@@ -83,4 +83,4 @@ The task briefs are also kept in the `Project To Do List` sheet of the workbook.
 ## Author
 
 **Your Name**
-[LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/)
+[LinkedIn](www.linkedin.com/in/vishal-falnikar-477475235) | [GitHub](https://github.com/codervishal96)
